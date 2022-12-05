@@ -1,0 +1,11 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~2/MICROS~3/2019/COMMUN~1/Common7/IDE/COMMON~1/MICROS~1/CMake/Ninja/ninja.exe cmTC_6561d && [1/2] Building CXX object CMakeFiles\cmTC_6561d.dir\CheckIncludeFile.cxx.obj
+FAILED: CMakeFiles/cmTC_6561d.dir/CheckIncludeFile.cxx.obj 
+C:\PROGRA~2\MICROS~3\2019\COMMUN~1\VC\Tools\MSVC\1429~1.301\bin\HostX64\x64\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc  /MDd /Zi /Ob0 /Od /RTC1 /showIncludes /FoCMakeFiles\cmTC_6561d.dir\CheckIncludeFile.cxx.obj /FdCMakeFiles\cmTC_6561d.dir\ /FS -c "C:\Users\User\Documents\QtProjects\Tik Tak Toe\TikTakToe\build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx"
+C:\Users\User\Documents\QtProjects\Tik Tak Toe\TikTakToe\build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug\CMakeFiles\CMakeTmp\CheckIncludeFile.cxx(1): fatal error C1083: Не удается открыть файл включение: pthread.h: No such file or directory,
+ninja: build stopped: subcommand failed.
+
+
+

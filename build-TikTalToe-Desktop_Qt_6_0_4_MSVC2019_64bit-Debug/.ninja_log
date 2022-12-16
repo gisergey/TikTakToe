@@ -1,0 +1,73 @@
+# ninja log v5
+12	1019	6927268550014073	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	1019	6927268550014073	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+5453	6229	6927268603462479	TikTalToe.exe	bcb62db058f6e111
+12	1019	6927268550014073	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	1019	6927268550014073	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+1044	5273	6927268595143263	CMakeFiles/TikTalToe.dir/TikTalToe_autogen/mocs_compilation.cpp.obj	5be027e9b2c46925
+1054	5452	6927268596990381	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+1020	5267	6927268595102650	CMakeFiles/TikTalToe.dir/main.cpp.obj	165520f64ab15061
+12	577	6927268746603007	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	577	6927268746603007	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+12	577	6927268746603007	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	577	6927268746603007	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+599	5102	6927268791804980	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5103	5650	6927268796244199	TikTalToe.exe	bcb62db058f6e111
+12	539	6927269457525656	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	539	6927269457525656	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+12	539	6927269457525656	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	539	6927269457525656	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+563	5094	6927269503026132	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5096	5663	6927269507549460	TikTalToe.exe	bcb62db058f6e111
+12	587	6927274891400517	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	587	6927274891400517	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+12	587	6927274891400517	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	587	6927274891400517	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+611	5190	6927274937348687	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5191	5749	6927274941594137	TikTalToe.exe	bcb62db058f6e111
+13	571	6927275422699233	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+13	571	6927275422699233	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+13	571	6927275422699233	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+13	571	6927275422699233	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+595	5109	6927275468012832	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5110	5667	6927275472436580	TikTalToe.exe	bcb62db058f6e111
+11	520	6927275661494484	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+11	520	6927275661494484	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+11	520	6927275661494484	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+11	520	6927275661494484	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+543	5083	6927275707056404	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5084	5630	6927275711466463	TikTalToe.exe	bcb62db058f6e111
+16	594	6927276144576733	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+16	594	6927276144576733	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+16	594	6927276144576733	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+16	594	6927276144576733	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+616	5227	6927276190839913	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5229	5795	6927276195346731	TikTalToe.exe	bcb62db058f6e111
+12	599	6927277712555917	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	599	6927277712555917	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+12	599	6927277712555917	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	599	6927277712555917	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+623	5157	6927277758087600	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5158	5888	6927277764183013	TikTalToe.exe	bcb62db058f6e111
+13	525	6927278485394448	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+13	525	6927278485394448	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+13	525	6927278485394448	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+13	525	6927278485394448	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+547	5058	6927278530658613	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5059	5685	6927278535855514	TikTalToe.exe	bcb62db058f6e111
+12	1086	6927301944466463	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	1086	6927301944466463	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+12	1086	6927301944466463	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+12	1086	6927301944466463	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+1087	5535	6927301991611296	CMakeFiles/TikTalToe.dir/TikTalToe_autogen/mocs_compilation.cpp.obj	5be027e9b2c46925
+1120	5540	6927301991631613	CMakeFiles/TikTalToe.dir/main.cpp.obj	165520f64ab15061
+1109	5692	6927301993173638	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5693	6248	6927301997550537	TikTalToe.exe	bcb62db058f6e111
+11	1062	6927303153847079	TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+11	1062	6927303153847079	TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+11	1062	6927303153847079	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/timestamp	f6af8a3241dc2d87
+11	1062	6927303153847079	C:/Users/User/Documents/QtProjects/Tik Tak Toe/TikTakToe/build-TikTalToe-Desktop_Qt_6_0_4_MSVC2019_64bit-Debug/TikTalToe_autogen/mocs_compilation.cpp	f6af8a3241dc2d87
+1096	5644	6927303202393722	CMakeFiles/TikTalToe.dir/main.cpp.obj	165520f64ab15061
+1086	5649	6927303202417732	CMakeFiles/TikTalToe.dir/TikTalToe_autogen/mocs_compilation.cpp.obj	5be027e9b2c46925
+1063	5754	6927303203535269	CMakeFiles/TikTalToe.dir/showwindow.cpp.obj	49104df3faf49b89
+5755	6289	6927303207809520	TikTalToe.exe	bcb62db058f6e111
